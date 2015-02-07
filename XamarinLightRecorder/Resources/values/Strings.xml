@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="hello">開始</string>
+	<string name="app_name">XamarinLightRecorder</string>
+	<string name="illumination_title">今の明るさ</string>
+	<string name="illumination">準備しています...</string>
+	<string name="batch_mode_title">バッチモード</string>
+	<string name="batch_mode">判定待ちです...</string>
+</resources>
