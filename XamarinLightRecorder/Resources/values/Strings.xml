@@ -1,9 +1,12 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="hello">開始</string>
+	<string name="execute">開始</string>
+	<string name="clear">クリア</string>
 	<string name="app_name">XamarinLightRecorder</string>
+	<string name="clock_title">現在時刻</string>
 	<string name="illumination_title">今の明るさ</string>
 	<string name="illumination">準備しています...</string>
 	<string name="batch_mode_title">バッチモード</string>
 	<string name="batch_mode">判定待ちです...</string>
+	<string name="history_title">履歴</string>
 </resources>
